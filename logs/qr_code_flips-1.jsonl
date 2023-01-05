@@ -1,0 +1,3 @@
+{"event": "started", "time": 1672938773.5986195, "time_formatted": "2023-01-05T12:12:53.598619-05:00"}
+{"event": "started", "time": 1672938775.998604, "time_formatted": "2023-01-05T12:12:55.998604-05:00"}
+{"event": "trigger", "acqNum": 0, "time": 1672938776.0904727, "time_formatted": "2023-01-05T12:12:56.090473-05:00", "keys": ["q"], "time_flip": 1672938794.70778, "time_flip_formatted": "2023-01-05T12:13:14.707780-05:00"}

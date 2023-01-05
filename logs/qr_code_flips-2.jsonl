@@ -1,0 +1,8 @@
+{"event": "started", "time": 1672938823.328807, "time_formatted": "2023-01-05T12:13:43.328807-05:00"}
+{"event": "started", "time": 1672938824.4821596, "time_formatted": "2023-01-05T12:13:44.482160-05:00"}
+{"event": "trigger", "acqNum": 0, "time": 1672938824.5578752, "time_formatted": "2023-01-05T12:13:44.557875-05:00", "keys": ["5"], "time_flip": 1672938872.926858, "time_flip_formatted": "2023-01-05T12:14:32.926858-05:00"}
+{"event": "trigger", "acqNum": 1, "time": 1672938872.9434407, "time_formatted": "2023-01-05T12:14:32.943441-05:00", "keys": ["5"], "time_flip": 1672938874.6253576, "time_flip_formatted": "2023-01-05T12:14:34.625358-05:00"}
+{"event": "trigger", "acqNum": 2, "time": 1672938874.6425903, "time_formatted": "2023-01-05T12:14:34.642590-05:00", "keys": ["5"], "time_flip": 1672938876.6134446, "time_flip_formatted": "2023-01-05T12:14:36.613445-05:00"}
+{"event": "trigger", "acqNum": 3, "time": 1672938876.6258607, "time_formatted": "2023-01-05T12:14:36.625861-05:00", "keys": ["5"], "time_flip": 1672938878.608946, "time_flip_formatted": "2023-01-05T12:14:38.608946-05:00"}
+{"event": "trigger", "acqNum": 4, "time": 1672938878.6258366, "time_formatted": "2023-01-05T12:14:38.625837-05:00", "keys": ["5"], "time_flip": 1672938880.6126988, "time_flip_formatted": "2023-01-05T12:14:40.612699-05:00"}
+{"event": "trigger", "acqNum": 5, "time": 1672938880.6259327, "time_formatted": "2023-01-05T12:14:40.625933-05:00", "keys": ["q"], "time_flip": 1672938881.730127, "time_flip_formatted": "2023-01-05T12:14:41.730127-05:00"}
