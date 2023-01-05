@@ -1,0 +1,4 @@
+[submodule "reprostim"]
+	path = reprostim
+	url = https://github.com/ReproNim/reprostim
+	datalad-url = http://github.com/ReproNim/reprostim
